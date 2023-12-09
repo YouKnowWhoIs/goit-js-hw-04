@@ -1,3 +1,5 @@
+console.log("------ task-1 ------");
+
 function isEnoughCapacity(products, containerSize) {
   let allProducts = 0;
 

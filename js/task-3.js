@@ -1,3 +1,5 @@
+console.log("------ task-3 ------");
+
 const profile = {
   username: "Jacob",
   playTime: 300,
